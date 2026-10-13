@@ -63,3 +63,7 @@ Edit the `AGENTS` list in `agent_monitor.py` to add/remove agents. Each agent ne
 - Python 3 + [rumps](https://github.com/jaredks/rumps) (menu bar framework)
 - [py2app](https://py2app.readthedocs.io/) for .app bundling
 - macOS launchd for auto-start
+
+## Build log
+
+- [개발기 (Korean): 맥 메뉴바로 내 AI 에이전트 상태 모니터링하기](https://aicoder-lab.blogspot.com/2026/06/ai-rumps.html)
